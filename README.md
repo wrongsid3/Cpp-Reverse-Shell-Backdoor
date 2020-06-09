@@ -1,7 +1,7 @@
 # Cpp-Reverse-Shell-Backdoor
 
 <h2 style="color: #5e9ca0;"><span style="color: #000000;">*** Don't upload to VirusTotal! ***</span></h2>
-<h2 style="color: #2e6c80;"><span style="color: #000000;">C++ customizable Backdoor</span></h2>
+<h2 style="color: #2e6c80;"><span style="color: #000000;">C++ customizable and undetectable Backdoor</span></h2>
 <p><span style="color: #000000;">It works with all Microsoft Windows distributions</span></p>
 <h2 style="color: #2e6c80;"><span style="color: #000000;">features included:</span></h2>
 <ol style="list-style: none; font-size: 14px; line-height: 32px; font-weight: bold;">
