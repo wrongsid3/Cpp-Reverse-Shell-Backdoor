@@ -18,3 +18,4 @@
 <p><strong>To avoid the code being add to AV signatures, don't upload to VirusTotal, or any other online AV (including your desktop AV. If you want to try to make a scan, turn off your internet connection or use offline AV.</strong></p>
 <p><strong>-- --</strong></p>
 <p><strong>&nbsp;</strong></p>
+<p><img src="https://pasteboard.co/Jddr6hu.png" alt="" /></p>
