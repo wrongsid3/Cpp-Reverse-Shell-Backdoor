@@ -17,5 +17,6 @@
 <p><strong>-- --</strong></p>
 <p><strong>To avoid the code being add to AV signatures, don't upload to VirusTotal, or any other online AV (including your desktop AV. If you want to try to make a scan, turn off your internet connection or use offline AV.</strong></p>
 <p><strong>-- --</strong></p>
-<p><strong>&nbsp;</strong></p>
-<p><img src="https://pasteboard.co/Jddr6hu.png" alt="" /></p>
+Scan results:
+<img src="https://github.com/wrongsid3/Cpp-Reverse-Shell-Backdoor/blob/master/defender.PNG?raw=true" alt="defender scan" width="545" height="344">
+<img src="https://github.com/wrongsid3/Cpp-Reverse-Shell-Backdoor/blob/master/avg.PNG?raw=true" alt="avg scan" width="592,5" height="390">
