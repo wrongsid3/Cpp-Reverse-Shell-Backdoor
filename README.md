@@ -17,8 +17,8 @@
 <p><strong>-- --</strong></p>
 <p><strong>To avoid the code being add to AV signatures, don't upload to VirusTotal, or any other online AV (including your desktop AV. If you want to try to make a scan, turn off your internet connection or use offline AV.</strong></p>
 <p><strong>-- --</strong></p>
-Youtube Tutorial: https://youtu.be/gSFhIbkhnuw
-#AppuntiDaHacker Youtube Channel
+<b>Youtube Tutorial: https://youtu.be/gSFhIbkhnuw
+<p>#AppuntiDaHacker Youtube Channel</b></p>
 <p></p>
 Scan results:
 <img src="https://github.com/wrongsid3/Cpp-Reverse-Shell-Backdoor/blob/master/defender.PNG?raw=true" alt="defender scan" width="545" height="344">
