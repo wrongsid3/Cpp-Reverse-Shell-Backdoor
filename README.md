@@ -15,7 +15,7 @@
 <p>Set and start a listener with netcat:</p>
 <p>nc -lvp &lt;port&gt; // e.g. nc -lvp 443</p>
 <p><strong>-- --</strong></p>
-<p><strong>To avoid the code being add to AV signatures, don't upload to VirusTotal, or any other online AV (including your desktop AV. If you want to try to make a scan, turn off your internet connection or use offline AV.</strong></p>
+<p><strong>To avoid the code being add to AV signatures, don't upload to VirusTotal, or any other online AV (including your desktop AV). If you want to try to make a scan, turn off your internet connection or use offline AV.</strong></p>
 <p><strong>-- --</strong></p>
 <b>Youtube Tutorial: https://youtu.be/gSFhIbkhnuw
 <p>#AppuntiDaHacker Youtube Channel</b></p>
